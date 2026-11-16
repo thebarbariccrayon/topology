@@ -42,4 +42,14 @@
   Services:
   - CE
 # ---------------------------------------------------------
-
+- Class: SCHEDULED
+  ID:
+  Description: NSCU Hosted OSG Contribution Resources - Patching
+  Severity: Outage
+  StartTime: Nov 30, 2026 13:00 +0000
+  EndTime: Nov 30, 2026 14:30 +0000
+  CreatedTime: Nov 16, 2026 13:25 +0000
+  ResourceName: NCSU-OSG-CE1
+  Services:
+  - CE
+# ---------------------------------------------------------
